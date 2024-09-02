@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![Shell](https://img.shields.io/badge/Wonho-3178C6?style=flat&logo=Shell&logoColor=white)
+
+## Skill
+
+![Shell](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Shell](https://img.shields.io/badge/Java-E33332?style=flat&logo=TestingLibrary&logoColor=white)
+![Shell](https://img.shields.io/badge/-E33332?style=flat&logo=TestingLibrary&logoColor=white)
