@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/${skill}-${3178C6}?style=flat&logo=#FFD500&logoColor=white" />
+![Shell](https://img.shields.io/badge/Wonho-3178C6?style=flat&logo=Shell&logoColor=white)
